@@ -1,0 +1,5 @@
+*.log
+/dir/
+/static/dir/
+my_excel.xlsx
+db.accdb
